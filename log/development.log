@@ -1,0 +1,21 @@
+[Sun Jun 10 16:11:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun 10 16:11:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5).
+[Sun Jun 10 16:11:05 2012] [debug] Routing to controller "MojoMvcTutorial::Example" and action "welcome".
+[Sun Jun 10 16:11:05 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Jun 10 16:11:05 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun 10 16:11:05 2012] [debug] 200 OK (0.029598s, 33.786/s).
+[Sun Jun 10 16:11:17 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5).
+[Sun Jun 10 16:11:17 2012] [debug] Routing to controller "MojoMvcTutorial::Example" and action "welcome".
+[Sun Jun 10 16:11:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Sun Jun 10 16:11:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Jun 10 16:11:17 2012] [debug] 200 OK (0.001663s, 601.323/s).
+[Sun Jun 10 16:11:21 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5).
+[Sun Jun 10 16:11:21 2012] [debug] Routing to controller "MojoMvcTutorial::Example" and action "welcome".
+[Sun Jun 10 16:11:21 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Sun Jun 10 16:11:21 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Jun 10 16:11:21 2012] [debug] 200 OK (0.001170s, 854.701/s).
+[Sun Jun 10 16:11:22 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5).
+[Sun Jun 10 16:11:22 2012] [debug] Routing to controller "MojoMvcTutorial::Example" and action "welcome".
+[Sun Jun 10 16:11:22 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Sun Jun 10 16:11:22 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Jun 10 16:11:22 2012] [debug] 200 OK (0.001312s, 762.195/s).
